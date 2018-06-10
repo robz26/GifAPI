@@ -1,0 +1,34 @@
+.topic-buttons-here{
+    margin: auto;
+}
+.topic-button{
+    color: whitesmoke;
+    border: 1px solid rgb(149, 141, 204);
+    border-radius: 3px;
+    background: rgba(69, 8, 119, 0.6);
+}
+.topic-button:hover{
+    background-color:    #48bfe9;
+}
+body {
+    background-image: url(../images/Blue_BG.jpg);
+    background-size: cover;
+    font-family: 'Kalam', cursive;
+    /* font-family: 'Permanent Marker', cursive; */
+}
+label{
+    color: whitesmoke;
+}
+.TopRow {
+    min-height: 60px;
+    overflow: hidden;
+}
+.card-body{
+    color: whitesmoke;
+    padding:10px 10px;
+    
+}
+.card {
+    background: rgba(128, 143, 170, 0.4);
+    border-color: black;
+}
