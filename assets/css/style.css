@@ -6,9 +6,15 @@
     border: 1px solid rgb(149, 141, 204);
     border-radius: 3px;
     background: rgba(69, 8, 119, 0.6);
+    margin: 0px 5px;
 }
 .topic-button:hover{
     background-color:    #48bfe9;
+}
+#add-Topic:hover{
+    background-color: navy;
+    color: whitesmoke;
+    border-color: navy;
 }
 body {
     background-image: url(../images/Blue_BG.jpg);
